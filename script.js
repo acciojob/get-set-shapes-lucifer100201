@@ -33,7 +33,7 @@ class Square extends Animal {
 	}
 
 	getPerimeter(){
-		let perimeter = 2 * side ;
+		let perimeter = 4 * side ;
 		return perimeter;
 	}
 }
